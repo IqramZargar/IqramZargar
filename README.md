@@ -60,7 +60,7 @@ Committed to clean, test-driven, and maintainable codebases.
 
 ---
 
-### 🖼️ Object Detection Web App
+### 🖼️ DetectronV8
 **July 2025**  
 **Tech:** Django REST Framework, YOLOv8, Computer Vision  
 
