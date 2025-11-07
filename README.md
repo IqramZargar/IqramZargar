@@ -1,66 +1,72 @@
-👋 Hi! I am Muhammad Iqram
+👋 Hi! I'm Muhammad Iqram
+🧠 Aspiring Software Engineer | Machine Learning Enthusiast | Backend Developer
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Building+intelligent+and+scalable+systems;Passionate+about+Machine+Learning+%26+Backend+Development;Always+learning%2C+always+improving!+🚀" alt="Typing SVG"> </p>
+🚀 Tech Stack & Tools
+🧩 Backend Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,django,postgres" alt="Backend Skills" /> </p>
 
-Aspiring Software Engineer | Machine Learning Enthusiast | Backend Developer
+Expertise in building robust APIs using Django REST Framework, implementing authentication, data validation, and secure storage systems.
 
-Welcome to my GitHub! I'm passionate about building intelligent, scalable, and secure systems, with a special focus on Machine Learning and Backend Development.
+🧠 Machine Learning & AI
+<p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,keras,opencv" alt="Machine Learning" /> </p>
 
-🚀 My Tech Stack
-<p align="center"> <!-- Backend --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"> <br> <!-- ML --> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"> <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" alt="YOLOv8"> <br> <!-- Other Skills --> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> </p> <p align="center"> <a href="https://iqramzargar.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Portfolio"> </a> </p>
+Hands-on experience developing, training, and deploying deep learning models — from data preprocessing to real-world inference using YOLOv8 and CNN architectures.
 
-💼 Visit my Portfolio
- to explore my full skillset, featured projects, and learning journey in depth.
+💻 Programming & Other Skills
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,git,vscode,linux" alt="Programming Skills" /> </p>
 
-🔬 My Machine Learning Journey
+Strong grasp of Data Structures & Algorithms, database design, and performance optimization.
+Committed to clean, test-driven, and maintainable codebases.
 
-I love experimenting with deep learning models to tackle challenging problems, and I've had the opportunity to work on the following projects:
+<p align="center"> <a href="https://iqramzargar.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Portfolio"> </a> </p>
 
-🛠️ Projects
-🧠 YOLOv8 Custom Object Detection (Independent Project)
+💼 Explore my Portfolio
+ to see my full skillset, detailed projects, and learning milestones.
+
+🧪 Machine Learning Projects
+🎯 YOLOv8 Custom Object Detection (Independent Project)
 
 June 2025
-Tech: Python, YOLOv8, Colab, Drive, NumPy, Matplotlib
+Tech: Python, YOLOv8, Colab, NumPy, Matplotlib
 
-Trained a YOLOv8s model on a custom-labeled dataset using Colab + Drive.
+Trained a YOLOv8s model on a custom-labeled dataset.
 
-Configured 25 epochs, 224x224 image size, and data paths in data.yaml.
+Configured 25 epochs, 224×224 image size, and custom data.yaml.
 
-Evaluated the model with plots, confusion matrix, and bounding boxes.
+Evaluated results using confusion matrix and visualized bounding boxes.
 
-Automated the pipeline using the Ultralytics Python library.
+Automated pipeline using the Ultralytics Python library.
 
-🖼️ Object Detection Web Application
+🖼️ Object Detection Web App
 
 July 2025
-Tech: Django REST Framework, YOLOv8 (Ultralytics), Computer Vision
+Tech: Django REST Framework, YOLOv8, Computer Vision
 
-Designed and implemented a full-stack object detection system with Django for backend APIs and YOLOv8 for real-time image inference.
+Built a RESTful API to handle user uploads and YOLOv8 inference.
 
-Built a RESTful interface allowing users to upload images, triggering inference and returning annotated results.
+Returned annotated images with bounding boxes and confidence scores.
 
-Processed detection outputs with bounding boxes, class labels, and confidence scores, rendered visually and as metadata on the frontend.
+Integrated secure media storage and optimized model loading for faster response times.
 
-Integrated Django’s media storage for secure handling of user-uploaded files.
-
-Optimized inference pipeline by integrating persistent model loading, reducing response time and improving scalability.
-
-🐱🐶 Image Classifier (CNN)
+🐱🐶 Cat vs Dog Image Classifier (CNN)
 
 June 2025
 Tech: Python, TensorFlow/Keras, NumPy, Pandas
 
-Developed a CNN model to classify cat vs dog images with 92% accuracy.
+Achieved 92% accuracy using a CNN trained on image datasets.
 
-Applied data augmentation and preprocessing for performance improvements.
+Applied data augmentation and preprocessing for improved generalization.
 
-Evaluated the model using a confusion matrix, optimizing for higher precision and recall.
+Evaluated model with a confusion matrix for better precision and recall.
 
-🎯 My Goals
+🎯 Goals & Vision
 
-🧠 Master Deep Learning: Constantly experimenting with cutting-edge models like GANs, Transformers, and Reinforcement Learning.
+🧠 Master advanced Deep Learning architectures (GANs, Transformers, RL).
 
-🌍 Contribute to Open Source: Building libraries and tools that benefit the broader tech community.
+🌍 Contribute actively to Open Source AI and backend communities.
 
-🔒 Build Scalable Systems: Designing scalable, secure systems using best practices.
+🔒 Design scalable, secure systems using modern best practices.
 
-📬 Let's Connect!
+📬 Let’s Connect!
 <p align="center"> <a href="https://www.linkedin.com/in/iqram-zargar-750709375" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://iqramzargar.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> </a> <a href="mailto:iqramzargar@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
+✨ “Learning never stops — every line of code brings me closer to mastery.”
